@@ -2,6 +2,9 @@
 
 ## Pregunta # 1
 
+![image](https://github.com/PatricaMontano/pruebat-tecnica-QA/assets/51218499/6ab8b5d0-8ac6-45ec-84f1-38aab1f5ed26)
+
+
 Para resolver esta pregunta se realizo una consulta SQL
 
 ```sql
