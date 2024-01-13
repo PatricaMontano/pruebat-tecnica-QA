@@ -1,4 +1,4 @@
-# Pruebas de QA - Johanna Montaño
+# Prueba QA - Johanna Montaño
 
 ## Pregunta # 1
 
